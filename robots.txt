@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /eUpravatest.html
+Disallow: /ZahvalaAnketa.html
+Disallow: /UAtest.html
+Disallow: /hvala.html
+Sitemap: https://matomodelavnica.github.io/UA01/sitemap.xml
+

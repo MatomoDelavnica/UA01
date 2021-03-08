@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>https://matomodelavnica.github.io/UA01/index.html</loc>
+      <changefreq>hourly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://matomodelavnica.github.io/UA01/prodaja.html</loc>
+      <changefreq>hourly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://matomodelavnica.github.io/UA01/kazalo.html</loc>
+      <changefreq>hourly</changefreq>
+      <priority>0.7</priority>
+   </url>
+</urlset>
